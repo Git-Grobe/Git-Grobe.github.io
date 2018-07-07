@@ -5,6 +5,7 @@ body {
     margin-top: 30px;
 }
 div.container {
+    background: #f7ec9a;
     width: 50%;
     margin: auto;
     border: 1px solid gray;
