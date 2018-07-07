@@ -35,6 +35,7 @@ div.panel {
 }
 div.field-value {
     display:inline-block;
+    color: #99bd4f;
 }
 div.button {
     padding-top: 20px;
