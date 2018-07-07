@@ -1,8 +1,9 @@
 header {
     text-align: center;
+
 }
 body {
-    margin-top: 30px;
+    margin-top: 20px 20px 20px 20px;
 }
 div.circle {
   position: relative;
@@ -38,16 +39,16 @@ div.field-value {
 div.button {
     padding-top: 20px;
     padding-bottom: 20px;
-    text-align: right;
+    text-align: center;
 }
 .btn {
-  background: #4caf50;
+  background: #6b6032;
   padding: 10px 20px 10px 20px;
   border-radius: 10px;
   text-decoration: none;
   color: white;
 }
 .btn:hover {
-  background: #3e8e41;
+  background: #534b26;
   text-decoration: none;
 }
