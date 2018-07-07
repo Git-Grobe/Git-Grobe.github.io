@@ -17,10 +17,10 @@ div.circle {
   font-size: 16px;
   text-align: center;
   vertical-align: center;
-  height: 50px;
-  width: 50px;
-  position: relative;
-  display: inline-block;
+  
+  
+  
+  
   width: 60%;
   height: 10%;
   padding: 30% 0;
@@ -36,6 +36,15 @@ div.panel {
 div.field-value {
     display:inline-block;
     color: #99bd4f;
+}
+#tokenSymbol {
+  font-style: italic;
+}
+#tokenBalance {
+  font-weight: bold;
+}
+#ethBalance {
+  font-weight: bold;
 }
 div.button {
     padding-top: 20px;
