@@ -8,9 +8,7 @@ div.container {
     background: #f7ec9a;
     width: 50%;
     margin: auto;
-    border: 10px #2d5109;
-    border: 10px #7ba237;
-    border: 10px #99bd4f;
+    border: 1px solid gray;
     padding: 30px;
 }
 div.panel {
