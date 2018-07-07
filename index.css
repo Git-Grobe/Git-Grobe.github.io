@@ -7,7 +7,7 @@ body {
 div.container {
     width: 50%;
     margin: auto;
-    border: 20px solid gray;
+    border: 1px solid gray;
     padding: 30px;
 }
 div.panel {
