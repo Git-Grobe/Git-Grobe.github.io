@@ -22,7 +22,10 @@ div.circle {
   padding: 30% 0;
   background: #f7ec9a;
   box-shadow: 0px 0px 0px 10px #99bd4f, 0px 0px 0px 20px #7ba237, 0px 0px 0px 30px #2d5109;
-  margin: 50px;
+  margin-left: 20%; 
+  margin-right: 20%;
+  margin-top: 20%;
+  margin-bottom: 20%;
   
 }
 div.panel {
