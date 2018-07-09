@@ -6,7 +6,7 @@ A simple wallet interface providing transfer functionality for the Avocado (AVO)
 
 ## Usage
 
-The wallet interface is hosted via GitHub Pages at [https://Git-Grobe.github.io/wallet](https://Git-grobe.github.io/wallet/)
+The wallet interface is hosted via GitHub Pages at [https://Git-Grobe.github.io](https://Git-grobe.github.io)
 
 A compatible wallet provider is required, such as MetaMask.
 
